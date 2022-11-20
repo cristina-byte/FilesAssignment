@@ -1,8 +1,0 @@
-Cristina Siscanu,1,cristinasiscanu30@gmail.com,mypassword
-Viorel Patrascu,2,viorel@gmail.com,sun
-Ana Ciorescu,3,ana30@gmail.com,flower
-Ion Tutu,4,tutu@gmail.com,iconpassword
-Oleg Fedco,5,fedco@gmail.com,fedco6
-Maria Sincari,6,maria@gmail.com,winter
-Florin Piersic,7,piersic@gmail.com,piersic
-Alex Bran,8,alex@gmail.com,puzzle

@@ -1,0 +1,15 @@
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\bin\Debug\net6.0\FilesAssignment.exe
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\bin\Debug\net6.0\FilesAssignment.deps.json
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\bin\Debug\net6.0\FilesAssignment.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\bin\Debug\net6.0\FilesAssignment.dll
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\bin\Debug\net6.0\FilesAssignment.pdb
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.dll
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\refint\FilesAssignment.dll
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.pdb
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\FilesAssignment.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\Amdaris Internship\MyRepository\FilesAssignment\FilesAssignment\obj\Debug\net6.0\ref\FilesAssignment.dll
